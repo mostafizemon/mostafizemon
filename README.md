@@ -10,7 +10,7 @@ I thrive in dynamic environments that challenge me to push the boundaries of tec
 
 Skills: Dart /Java / Flutter /PHP /C /C++
 
-- 🌱 I’m currently learning PHP Laravel 
+- 🌱 I’m currently learning Node.js 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mostafizemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mostafizur-rahman-emon-342488254/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mostafizemon0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mostafiz.emon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mostafiz_emon_0)  
