@@ -48,12 +48,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mostafizemon/mostafizemon/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
 
 ## 🌐 Connect with Me
 <p align="center">
