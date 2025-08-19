@@ -49,7 +49,7 @@
   <a href="mailto:mostafizemon09@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="##">
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white">
   </a>
 </p>
@@ -57,5 +57,5 @@
 ---
 
 ## 🏆 Competitive Programming Profiles
-- [LeetCode](https://leetcode.com/your-username)  
-- [Codeforces](https://codeforces.com/profile/your-username)  
+- [LeetCode](https://leetcode.com/u/RxtSYDEulq/)  
+- [Codeforces](https://codeforces.com/profile/mostafizemon0)  
