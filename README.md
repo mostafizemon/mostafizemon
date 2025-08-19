@@ -1,27 +1,67 @@
-### Hi there 👋, my name is Md.Mostafizur Rahman Emon
-#### I am Mobile App Developer from Bangladesh
-![I am Mobile App Developer from Bangladesh](https://i.postimg.cc/W4ZT4Pfc/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
+<h1 align="center">Hi 👋, I'm Mostafizur Rahman (Emon)</h1>
+<h3 align="center">🚀 Mobile App Developer | Flutter Enthusiast | Lifelong Learner</h3>
 
-I am a dedicated mobile app developer with a strong proficiency in Flutter and Java, allowing me to create seamless and efficient mobile applications. Currently based in Dhaka, Bangladesh, I have a passion for developing user-centric solutions that drive engagement and enhance user experiences.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Flutter+Enthusiast;C%2FC%2B%2B%2FJava%2FPython%2FGo;Learning+DevOps+%26+Cloud;Always+Learning+%26+Building+🚀" />
+</p>
 
-With a keen interest in expanding my skill set, I am currently learning PHP and Laravel to further my expertise in backend services. My goal is to integrate robust backend functionalities with intuitive mobile interfaces, ensuring comprehensive and innovative app solutions.
+---
 
-I thrive in dynamic environments that challenge me to push the boundaries of technology and creativity. My approach to development is rooted in meticulous attention to detail and a commitment to delivering high-quality, scalable applications. I am excited to collaborate with teams that share my vision of leveraging technology to solve real-world problems and enhance everyday life.
+## 👨‍💻 About Me  
+- 🎓 **B.Sc. in Computer Science & Engineering** – *Bangladesh University of Business and Technology (BUBT)*  
+- 💻 Experienced in **Flutter, C, C++, Java, Python**  
+- 🌱 Currently learning **Golang & DevOps**  
+- 📱 Passionate about building **scalable mobile applications**  
+- 🎯 Aspiring **Full-Stack Mobile & Cloud Engineer**  
 
-Skills: Dart /Java / Flutter /PHP /C /C++
+---
 
-- 🌱 I’m currently learning Node.js 
+## 🚀 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mostafizemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mostafizur-rahman-emon-342488254/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mostafizemon0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mostafiz.emon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mostafiz_emon_0)  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafizemon&show_icons=true&theme=radical" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafizemon&theme=radical" height="170px"/>
+</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mostafizemon)](https://github.com/ryo-ma/github-profile-trophy)
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/mostafizemon/mostafizemon/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizemon)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafizemon&show_icons=true&count_private=true)  
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mostafizur-rahman-emon-342488254/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:mostafizemon09@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white">
+  </a>
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mostafizemon)  
+---
 
+## 🏆 Competitive Programming Profiles
+- [LeetCode](https://leetcode.com/your-username)  
+- [Codeforces](https://codeforces.com/profile/your-username)  
