@@ -23,7 +23,5 @@ Skills: Dart /Java / Flutter /PHP /C /C++
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafizemon&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mostafizemon/contributions?format=svg&private=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mostafizemon)  
 
