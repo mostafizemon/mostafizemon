@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mostafizur Rahman (Emon)</h1>
-<h3 align="center">🚀 Mobile App Developer | Flutter Enthusiast | DevOps Learner | Lifelong Explorer</h3>
+<h3 align="center">🚀 Mobile App Developer | Flutter Enthusiast | DevOps & Python Learner | Lifelong Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Flutter+Enthusiast;C%2FC%2B%2B%2FJava%2FPython%2FGo;Learning+DevOps+%26+Cloud;Always+Learning+%26+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Flutter+Enthusiast;C%2FC%2B%2B%2FJava%2FPython;Learning+DevOps+%26+n8n;Always+Learning+%26+Building+🚀" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me  
 - 🎓 **B.Sc. in Computer Science & Engineering** – *Bangladesh University of Business and Technology (BUBT)*  
 - 💻 Skilled in **Flutter, C, C++, Java, Python**  
-- 🌱 Currently learning **Golang & DevOps**  
+- 🌱 Currently learning **DevOps, Python & n8n**  
 - 📱 Passionate about building **scalable mobile applications**  
 - 🎯 Aspiring **Full-Stack Mobile & Cloud Engineer**  
 
@@ -25,7 +25,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -47,7 +46,6 @@
 </p>
 
 ---
-
 
 ## 🌐 Connect with Me
 <p align="center">
