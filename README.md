@@ -8,14 +8,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mostafizemon">
+  <a href="https://mostafizemonportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mostafizemon" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mostafizemon09@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mostafizemonportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -80,14 +80,19 @@ I am a **Computer Science** graduate and **Flutter Developer** with a passion fo
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafizemon&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="Mostafizur's Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafizemon&theme=tokyonight&hide_border=true" height="180" alt="Mostafizur's Streak" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=mostafizemon&show_icons=true&theme=tokyonight&hide_border=true" alt="Mostafizur's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafizemon&theme=tokyonight&hide_border=true" alt="Mostafizur's Streak" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizemon&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="140" alt="Mostafizur's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizemon&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="140" alt="Top Languages" />
 </div>
 
 ---
