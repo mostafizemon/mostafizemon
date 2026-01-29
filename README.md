@@ -54,6 +54,8 @@ I am a **Computer Science** graduate and **Flutter Developer** with a passion fo
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bloc-0083c0?style=for-the-badge&logo=flutter&logoColor=white"/>
+   
     </td>
   </tr>
   <tr>
