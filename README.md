@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mostafizur Rahman Emon</h1>
-<h3 align="center">🚀 Flutter Developer | DevOps Enthusiast | Automation Engineer</h3>
+<h3 align="center">🚀 DevOps Engineer | Golang Backend Developer | Infrastructure Automation</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Cross-Platform+Mobile+Apps;Transitioning+to+DevOps+%26+Cloud+Native;Automating+Workflows+with+n8n+%26+Python;Exploring+Docker,+Linux,+%26+CI%2FCD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Architecting+Cloud-Native+Systems;Writing+Framework-Free+Golang;Automating+CI%2FCD+Pipelines;Exploring+Docker,+Linux,+%26+K8s" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,53 +21,42 @@
 
 ---
 
-## 👨‍💻 Professional Profile
+<h2 align="left">👨‍💻 Professional Profile</h2>
 
-I am a **Computer Science** graduate and **Flutter Developer** with a passion for system architecture. Currently, I am expanding my engineering scope by bridging the gap between **Development and Operations**. My goal is to build scalable mobile applications and the automated infrastructure that supports them.
+I am a Computer Science graduate with a strong focus on system architecture and backend development. My expertise lies in building scalable, framework-free backend services using Golang and integrating robust RESTful APIs. I am deeply passionate about automating IT operations, managing Linux environments, and deploying containerized applications.
 
-- 🔭 **Current Focus:** Mastering **Docker, CI/CD pipelines, and Linux Server Management**.
-- 🌱 **Learning:** Implementing containerization and orchestration (Kubernetes) for mobile backends.
-- ⚙️ **Automation:** Using **n8n** and **Python scripts** to eliminate repetitive development tasks.
-- 🎓 **Education:** B.Sc. in CSE from *Bangladesh University of Business and Technology (BUBT)*.
+- Current Focus: Architecting cloud-native solutions with Kubernetes, Docker, and standard Golang.
+- Automation: Building robust CI/CD pipelines via GitHub Actions and automating workflows with Bash Scripting and n8n.
+- Problem Solving: Actively solving Data Structures and Algorithms problems on LeetCode using Golang to write efficient code.
+- Education: B.Sc. in CSE from Bangladesh University of Business and Technology (BUBT).
 
 ---
 
-## 🛠️ Technical Arsenal
+<h2 align="left">🛠️ Technical Arsenal</h2>
 
 <table>
   <tr>
-    <td align="center" width="200"><b>🚀 DevOps & Cloud <br>(Current Focus)</b></td>
+    <td align="center" width="200"><i>🚀 DevOps & Cloud</i></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>📱 Mobile & App Dev</b></td>
+    <td align="center"><i>💻 Backend Development</i></td>
     <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bloc-0083c0?style=for-the-badge&logo=flutter&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>💻 Core Languages</b></td>
-    <td>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>⚙️ Tools & Automation</b></td>
+    <td align="center"><i>⚙️ Tools & Automation</i></td>
     <td>
       <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -79,7 +68,7 @@ I am a **Computer Science** graduate and **Flutter Developer** with a passion fo
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="left">📊 GitHub Analytics</h2>
 
 <table align="center" width="100%">
   <tr>
@@ -98,11 +87,12 @@ I am a **Computer Science** graduate and **Flutter Developer** with a passion fo
 
 ---
 
-## 🏆 Competitive Programming & Problem Solving
+<h2 align="left">🏆 Problem Solving (Golang)</h2>
+
 | Platform | Profile Link |
 | :--- | :--- |
-| **LeetCode** | [View Profile](https://leetcode.com/u/RxtSYDEulq/) 🧩 |
-| **Codeforces** | [View Profile](https://codeforces.com/profile/mostafizemon0) ⚡ |
+| LeetCode | <a href="https://leetcode.com/u/RxtSYDEulq/">View Profile 🧩</a> |
+| Codeforces | <a href="https://codeforces.com/profile/mostafizemon0">View Profile ⚡</a> |
 
 ---
 
