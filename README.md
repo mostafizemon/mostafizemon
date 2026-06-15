@@ -86,7 +86,7 @@ I am a DevOps Engineer and Backend Developer specializing in cloud-native infras
       <img src="https://github-readme-stats.vercel.app/api?username=mostafizemon&show_icons=true&theme=tokyonight&hide_border=true" alt="Mostafizur's GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=mostafizemon&theme=tokyonight&hide_border=true" alt="Mostafizur's Streak" />
+      <img src="https://streak-stats.demolab.com/?user=mostafizemon&theme=tokyonight&hide_border=true&v=1" alt="Mostafizur's Streak" />
     </td>
   </tr>
 </table>
