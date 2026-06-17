@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mostafizur Rahman Emon</h1>
-<h3 align="center">🚀 DevOps Engineer | Golang Backend Developer | AI Automation</h3>
+<h3 align="center">🚀 DevOps Engineer | System Architecture | AI Automation</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Architecting+Cloud-Native+Systems;Writing+Framework-Free+Golang;Automating+CI%2FCD+Pipelines;Orchestrating+AI+Workflows+with+n8n" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Architecting+Cloud-Native+Systems;Automating+CI%2FCD+Pipelines;Orchestrating+AI+Workflows+with+n8n;Managing+Linux+Environments" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,12 +20,12 @@
 
 <h2 align="left">👨‍💻 Professional Profile</h2>
 
-I am a DevOps Engineer and Backend Developer specializing in cloud-native infrastructure, framework-free Golang services, and AI workflow orchestration. Currently bridging the gap between development and continuous infrastructure delivery, I prioritize building scalable systems and secure server-side integrations. My background in cross-platform mobile development provides a comprehensive understanding of how client-side applications consume resources, allowing me to design highly efficient and developer-friendly APIs.
+I am a DevOps Engineer specializing in cloud-native infrastructure, system architecture, and AI workflow orchestration. Currently bridging the gap between development and continuous infrastructure delivery, I prioritize building scalable systems and secure server-side integrations. My background in cross-platform mobile development provides a comprehensive understanding of how client-side applications consume resources, allowing me to design highly efficient and developer-friendly architectures.
 
-- **Core Focus:** Architecting microservices with Kubernetes, Docker, and raw Go (`net/http`).
+- **Core Focus:** Architecting microservices with Kubernetes, Docker, and Linux.
 - **AI & Automation:** Orchestrating complex data pipelines and integrating LLMs using n8n and Webhooks.
 - **Infrastructure:** Building robust CI/CD pipelines via GitHub Actions and managing Linux (Ubuntu) server environments.
-- **Problem Solving:** Actively solving Data Structures and Algorithms problems on LeetCode using Golang to write efficient, low-latency code.
+- **Problem Solving:** Actively solving Data Structures and Algorithms problems on LeetCode using C++ to write efficient, low-latency code.
 
 ---
 
@@ -44,10 +44,10 @@ I am a DevOps Engineer and Backend Developer specializing in cloud-native infras
     </td>
   </tr>
   <tr>
-    <td align="center"><i>💻 Backend Development</i></td>
+    <td align="center"><i>💻 Programming Languages</i></td>
     <td>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
   </tr>
@@ -97,7 +97,7 @@ I am a DevOps Engineer and Backend Developer specializing in cloud-native infras
 
 ---
 
-<h2 align="left">🏆 Problem Solving (Golang)</h2>
+<h2 align="left">🏆 Problem Solving</h2>
 
 | Platform | Profile Link |
 | :--- | :--- |
